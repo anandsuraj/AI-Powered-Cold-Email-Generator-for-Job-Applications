@@ -10,6 +10,8 @@ The AI-Powered Cold Email Generator allows job seekers to:
 - Generate personalized cold emails highlighting your skills and experiences.
 - Include relevant project portfolio links based on job descriptions, giving you an edge in your application.
 
+![Feature Diagram](./feature.png)
+
 ## How It Works
 
 1. The user inputs their name and the URL of a company’s careers page.
