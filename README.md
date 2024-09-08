@@ -79,6 +79,9 @@ streamlit run main.py
 - **ChromaDB**: A vector database used to store and retrieve relevant portfolio links.
 - **Streamlit**: The front-end framework used to create the interactive user interface.
 
+## keywords
+AI cold email generator, job application emails, personalized email generator, Llama3.1 LLM, LangChain, ChromaDB, Streamlit, email automation, AI job assistant, job seeker tool, cold email tool, professional emails, AI-generated emails, resume-based emails, AI application helper, job application automation, AI email crafting, AI job search, AI email writer, AI email personalization, tech stack for AI emails, automated job application emails, AI-powered email assistant, job seeker automation, AI tools for job applications.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any enhancements or bug fixes.
