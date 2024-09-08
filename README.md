@@ -1,7 +1,3 @@
-Here’s a full `README.md` for your project:
-
----
-
 # AI-Powered Cold Email Generator for Job Applications
 
 This project is an advanced AI-based cold email generator designed to assist job seekers by crafting personalized, impactful emails for job applications. Leveraging cutting-edge technologies such as Llama3.1 LLM, LangChain, ChromaDB, and Streamlit, this tool streamlines the process of creating professional cold emails tailored to job listings and candidate profiles.
